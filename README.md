@@ -7,8 +7,6 @@
 
 ### 🧠 Current Projects
 - 🕹️ **Digital Arcade** – Retro games meet the web, built with Three.js
-- 🤖 **Network Ninja** – An AI-powered networking buddy  
-- 🧩 **Flashcard AI** – Smart studying made simple
 
 ---
 
