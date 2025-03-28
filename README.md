@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I’m Byren!
 
-<!--
-**byrencheema/byrencheema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 CS @ UC Irvine | SWE Intern @ Turion Space  
+⚡ I build fast, fun, and functional things with code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Current Projects
+- 🕹️ **Digital Arcade** – Retro games meet the web, built with Three.js
+- 🤖 **Network Ninja** – An AI-powered networking buddy  
+- 🧩 **Flashcard AI** – Smart studying made simple
+
+---
+
+### 🛠 Tech I Use
+`TypeScript` • `Python` • `Next.js` • `FastAPI` • `Docker` • `PostgreSQL` • `Tailwind` • `OpenAI API`
+
+---
+
+### 📫 Let’s Connect
+- Portfolio: [byren.dev](https://byren.dev)
+- LinkedIn: [linkedin.com/in/byrencheema](https://linkedin.com/in/byrencheema)
+- Twitter: [@byrencheema](https://twitter.com/byrencheema)
+
+---
+
+> “Build cool stuff. Stay curious. Win with kindness.”
