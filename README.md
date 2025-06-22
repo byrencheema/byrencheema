@@ -1,12 +1,3 @@
-## byrencheema
-
-I build fast software.
-
----
-
-### now
-
-- horror-themed digital arcade using Three.js, Vite, and TypeScript
 
 ---
 
