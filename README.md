@@ -1,8 +1,8 @@
 # Byren Cheema
 
-**Computer Science @ UC Irvine** · Intelligent Systems · **June 2026**
+**Computer Science @ UC Irvine** · **June 2026**
 
-Building AI-powered systems, space software, and developer tools
+systems, space infrastructure, and gen ai developer tools
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-byrencheema-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/byrencheema)
 [![Portfolio](https://img.shields.io/badge/Portfolio-byrencheema.github.io-black?style=flat-square&logo=safari)](https://byrencheema.github.io/portfolio)
