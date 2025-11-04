@@ -1,6 +1,6 @@
 # byren cheema
 
-cs @ uc irvine · intelligent systems · june 2026
+computer science student
 
 building ai systems, space software, developer tools
 
