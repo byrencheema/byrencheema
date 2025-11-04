@@ -1,46 +1,46 @@
-# Byren Cheema
+# byren cheema
 
-**Computer Science @ UC Irvine** · **June 2026**
+cs @ uc irvine · intelligent systems · june 2026
 
-systems, space infrastructure, and gen ai developer tools
+building ai systems, space software, developer tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-byrencheema-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/byrencheema)
-[![Portfolio](https://img.shields.io/badge/Portfolio-byrencheema.github.io-black?style=flat-square&logo=safari)](https://byrencheema.github.io/portfolio)
-
----
-
-### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
-### Backend & Infrastructure
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-### AI/ML
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+[![linkedin](https://img.shields.io/badge/linkedin-byrencheema-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/byrencheema)
+[![portfolio](https://img.shields.io/badge/portfolio-byrencheema.github.io-black?style=flat-square&logo=safari)](https://byrencheema.github.io/portfolio)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=byrencheema&color=grey&style=flat-square&label=Profile+Views)
+## stack
+
+### languages
+![typescript](https://img.shields.io/badge/-typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![python](https://img.shields.io/badge/-python-3776ab?style=flat-square&logo=python&logoColor=white)
+![c++](https://img.shields.io/badge/-c++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
+![java](https://img.shields.io/badge/-java-007396?style=flat-square&logo=java&logoColor=white)
+![ruby](https://img.shields.io/badge/-ruby-cc342d?style=flat-square&logo=ruby&logoColor=white)
+
+### frontend
+![react](https://img.shields.io/badge/-react-61dafb?style=flat-square&logo=react&logoColor=black)
+![next.js](https://img.shields.io/badge/-next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![vue](https://img.shields.io/badge/-vue-4fc08d?style=flat-square&logo=vuedotjs&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/-tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+![three.js](https://img.shields.io/badge/-three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![electron](https://img.shields.io/badge/-electron-47848f?style=flat-square&logo=electron&logoColor=white)
+
+### backend & infrastructure
+![fastapi](https://img.shields.io/badge/-fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)
+![node.js](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![rails](https://img.shields.io/badge/-rails-cc0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![postgresql](https://img.shields.io/badge/-postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![mongodb](https://img.shields.io/badge/-mongodb-47a248?style=flat-square&logo=mongodb&logoColor=white)
+![redis](https://img.shields.io/badge/-redis-dc382d?style=flat-square&logo=redis&logoColor=white)
+![docker](https://img.shields.io/badge/-docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![aws](https://img.shields.io/badge/-aws-232f3e?style=flat-square&logo=amazonaws&logoColor=white)
+
+### ai/ml
+![pytorch](https://img.shields.io/badge/-pytorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+![tensorflow](https://img.shields.io/badge/-tensorflow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)
+![openai](https://img.shields.io/badge/-openai-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
+
+![](https://komarev.com/ghpvc/?username=byrencheema&color=grey&style=flat-square&label=views)
